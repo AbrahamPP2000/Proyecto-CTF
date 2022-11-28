@@ -1,4 +1,4 @@
-# Proyecto-CTF
+# Proyecto-CTF Intentando hacer una práctica sencilla con las herramientas requeridas
 
 Personalmente me ha costado idear un proyecto para aplicar tan siquiera alguna de las herramientas requeridas. Estoy pensando en las siguientes opciones: 
 
