@@ -16,3 +16,6 @@ Se supone que usando la siguiente herramienta,
 ![image](https://user-images.githubusercontent.com/97979648/205518666-3152ec00-67a9-4d86-9ed3-d2dfba67908f.png)
 
 Se puede diseñar un sistema robusto tolerante a fallas. 
+
+Video:
+https://drive.google.com/file/d/1HjUGsjhqeBMEMHX4Fwu00XzrT3_aHWdU/view?usp=sharing
